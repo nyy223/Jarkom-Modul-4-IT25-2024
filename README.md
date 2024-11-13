@@ -8,7 +8,8 @@
 
 # Topologi
 ## GNS3
-![Screenshot 2024-11-13 095626](https://github.com/user-attachments/assets/b6e913cc-da37-4a1d-9fd4-1f9d9bd9ca00)
+![image](https://github.com/user-attachments/assets/66dd358f-1a88-4676-8ead-390ce1ece390)
+
 
 # Rute
 
