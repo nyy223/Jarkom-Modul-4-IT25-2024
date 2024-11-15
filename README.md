@@ -86,6 +86,26 @@ iface eth2 inet static
     netmask 255.255.255.248
 ```
 
+### Gura_Ame_Ina
+```
+#A17
+auto eth0
+iface eth0 inet static
+    address 10.76.64.2
+    netmask 255.255.254.0
+    gateway 10.76.64.1
+```
+
+### Kiara_Calli
+```
+#A17
+auto eth0
+iface eth0 inet static
+    address 10.76.64.3
+    netmask 255.255.254.0
+    gateway 10.76.64.1
+```
+
 ### Holo Advent (Gateway)
 ```
 #A21
