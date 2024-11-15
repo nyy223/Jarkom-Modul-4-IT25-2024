@@ -65,7 +65,7 @@ iface eth2 inet static
 
 ### Holo-Myth (Gateway)
 ```
-#A15
+#A16
 auto eth0
 iface eth0 inet static
     address 10.76.66.2
