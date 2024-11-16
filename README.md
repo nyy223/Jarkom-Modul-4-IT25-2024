@@ -15,6 +15,50 @@
 ## Rute dan Area Subnet
 ![image](https://github.com/user-attachments/assets/207c4883-8f00-4a12-8f59-b583578f004b)
 
+## Penggabungan
+### Langkah 1
+![Langkah 1](https://github.com/user-attachments/assets/73b5a01c-c708-4f6e-a271-dbb25cf9730f)
+
+### Langkah 2
+![Langkah 2](https://github.com/user-attachments/assets/3f7310b7-3257-438a-b326-85df7c2fb553)
+![image](https://github.com/user-attachments/assets/636227d5-04d5-40c6-a1c7-b36ea6074425)
+
+### Langkah 3
+![Langkah 3](https://github.com/user-attachments/assets/e67b5cef-4045-43ad-965b-b53573cb2a03)
+![image](https://github.com/user-attachments/assets/dde80184-0c66-40b6-91fb-8532ff4d9bee)
+
+### Langkah 4
+![Langkah 4](https://github.com/user-attachments/assets/bbebf72f-b3fd-4077-958d-194c33c261c4)
+![image](https://github.com/user-attachments/assets/ac6e315e-acf9-49d1-a8aa-6fe2d7541d33)
+
+### Langkah 5
+![Langkah 5](https://github.com/user-attachments/assets/9a472580-2cc9-448d-a98b-c0e0484cd5c7)
+![image](https://github.com/user-attachments/assets/b02dfa15-399a-458f-9ba0-92d3567b96e4)
+
+### Langkah 6
+![Langkah 6](https://github.com/user-attachments/assets/006e3c23-0520-45fb-885f-eb8a5777fd20)
+![image](https://github.com/user-attachments/assets/db10634d-da92-40ed-82dd-1c35c050626c)
+
+### Langkah 7
+![Langkah 7](https://github.com/user-attachments/assets/c1cefb47-6ed2-44c8-8802-694be8e89f44)
+![image](https://github.com/user-attachments/assets/2c4a589a-e9ea-40a8-9db4-8712e5a39147)
+
+### Langkah 8
+![Langkah 8](https://github.com/user-attachments/assets/bc22281e-c441-45eb-8e93-8267cf575244)
+![image](https://github.com/user-attachments/assets/d9a8a4cd-13d5-4c13-9184-d7d64e1a1917)
+
+### Langkah 9
+![Langkah 9](https://github.com/user-attachments/assets/b5f105d2-8ec3-4ff9-9d19-566346845a0a)
+![image](https://github.com/user-attachments/assets/42a5a7f4-c79d-440b-ae71-651dfae0d598)
+
+### Langkah 10
+![Langkah 10](https://github.com/user-attachments/assets/4121bfc0-df8b-4bbd-a7af-d359c35ab1e6)
+![image](https://github.com/user-attachments/assets/1bf463e0-898d-49d1-83be-4932b5c99a5e)
+
+### Langkah 11
+![Langkah 11](https://github.com/user-attachments/assets/eb6d9958-c762-48f6-ac5a-dbc0afa2a492)
+![image](https://github.com/user-attachments/assets/1ddd7b0d-39e3-4713-919c-1d7257270681)
+
 ## Pembagian IP
 ![image](https://github.com/user-attachments/assets/0e765711-0f1f-49b7-96ab-3c5f1ac0dc49)
 
@@ -216,3 +260,32 @@ iface eth0 inet static
     netmask 255.255.255.192
     gateway 10.76.32.1
 ```
+
+### Holo-ID
+```
+#A1
+auto eth0
+iface eth2 inet static
+    address 10.78.4.6
+    netmask 255.255.255.252
+
+#A2
+auto eth1
+iface eth1 inet static
+    address 10.78.4.1
+    netmask 255.255.255.252
+
+#A4
+auto eth2
+iface eth2 inet static
+    address 10.78.16.65
+    netmask 255.255.255.252
+
+#A6
+auto eth3
+iface eth3 inet static
+    address 10.78.34.1
+    netmask 255.255.255.252
+```
+
+
