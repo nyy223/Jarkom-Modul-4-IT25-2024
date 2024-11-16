@@ -12,9 +12,11 @@
 ## Topologi
 ![image](https://github.com/user-attachments/assets/66dd358f-1a88-4676-8ead-390ce1ece390)
 
-## Pembagian IP
-
 ## Rute dan Area Subnet
+![image](https://github.com/user-attachments/assets/207c4883-8f00-4a12-8f59-b583578f004b)
+
+## Pembagian IP
+![image](https://github.com/user-attachments/assets/0e765711-0f1f-49b7-96ab-3c5f1ac0dc49)
 
 ## Tree
 ![TREE_JARKOM_FKRI drawio](https://github.com/user-attachments/assets/1e630aab-d20e-4149-938b-16ab39f6c8c2)
