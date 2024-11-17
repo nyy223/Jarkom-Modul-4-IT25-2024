@@ -17,7 +17,7 @@
 
 
 ## Pembagian IP
-<img width="574" alt="Screenshot 2024-11-16 at 13 10 38" src="https://github.com/user-attachments/assets/2fd94626-44a8-44fe-b7b8-1f7488bfcc8d">
+<img width="668" alt="Screenshot 2024-11-17 at 21 35 11" src="https://github.com/user-attachments/assets/7501d0e8-bbb5-4d03-b24e-2c2e95e7db9e">
 
 ## Konfigurasi
 ### Hololive (Router)
