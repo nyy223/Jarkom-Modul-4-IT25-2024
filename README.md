@@ -736,7 +736,7 @@ Aki_Hachama ke Kaela
 ![image](https://github.com/user-attachments/assets/1ddd7b0d-39e3-4713-919c-1d7257270681)
 
 ## Pembagian IP
-![image](https://github.com/user-attachments/assets/c7e71b45-d868-4e29-b4d4-1b4f66968bcf)
+![image](https://github.com/user-attachments/assets/0dbc50b1-6f16-4e38-b4ec-cfa8c8c82dab)
 
 ## Tree
 ![TREE_JARKOM_FKRI drawio](https://github.com/user-attachments/assets/1e630aab-d20e-4149-938b-16ab39f6c8c2)
