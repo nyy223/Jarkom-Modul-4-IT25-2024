@@ -739,7 +739,7 @@ Aki_Hachama ke Kaela
 ![image](https://github.com/user-attachments/assets/0dbc50b1-6f16-4e38-b4ec-cfa8c8c82dab)
 
 ## Tree
-![image](https://github.com/user-attachments/assets/988f980f-6777-4cf6-9f7d-025c9ef9373e)
+![TREE_JARKOM_FKRI](https://github.com/user-attachments/assets/1642665d-ac09-4558-b39e-c50914c8a04e)
 
 ## Konfigurasi
 ### Hololive (Gateway)
