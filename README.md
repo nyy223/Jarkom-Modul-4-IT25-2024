@@ -1124,7 +1124,7 @@ auto eth0
 iface eth0 inet static
     address 10.76.10.2
     netmask 255.255.255.252
-    gateway 10.77.10.1
+    gateway 10.76.10.1
 
 #A10
 auto eth1
@@ -1140,7 +1140,7 @@ auto eth0
 iface eth0 inet static
     address 10.76.10.10
     netmask 255.255.255.240
-    gateway 10.77.10.9
+    gateway 10.76.10.9
 ```
 
 ### Ao (Client)
@@ -1150,7 +1150,7 @@ auto eth0
 iface eth0 inet static
     address 10.76.10.11
     netmask 255.255.255.240
-    gateway 10.77.10.9
+    gateway 10.76.10.9
 ```
 
 ### Hajime_Kanade (Client)
@@ -1160,7 +1160,7 @@ auto eth0
 iface eth0 inet static
     address 10.76.10.12
     netmask 255.255.255.240
-    gateway 10.77.10.9
+    gateway 10.76.10.9
 ```
 
 ### GEN:0 (Gateway)
@@ -1170,7 +1170,7 @@ auto eth0
 iface eth0 inet static
     address 10.76.10.3
     netmask 255.255.255.252
-    gateway 10.77.10.1
+    gateway 10.76.10.1
 
 #A11
 auto eth1
