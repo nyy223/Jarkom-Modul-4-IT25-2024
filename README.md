@@ -13,6 +13,8 @@
 ![Group 1](https://github.com/user-attachments/assets/065fbbef-76d8-44f1-ab64-d47ea97ec35e)
 
 ## Tree
+![modul-4](https://github.com/user-attachments/assets/8169eff7-ff36-45cd-bc2b-78719992799c)
+
 
 ## Pembagian IP
 <img width="574" alt="Screenshot 2024-11-16 at 13 10 38" src="https://github.com/user-attachments/assets/2fd94626-44a8-44fe-b7b8-1f7488bfcc8d">
